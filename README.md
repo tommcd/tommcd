@@ -1,11 +1,10 @@
-# Hi, I'm Tom McDermott 👋
+# Hi 👋
 
-Software engineer passionate about knowledge management, secure coding, and open source.
 
 ## 🌐 Sites
 
 - **[Personal Site](https://tommcd.github.io)** - Portfolio and projects
-- **[Notes & Blog](https://tommcd.github.io/notes/)** - My knowledge base (coming soon)
+- **[Notes & Blog](https://tommcd.github.io/notes/)** - My Notes
 
 ## 📝 Gists
 
@@ -18,14 +17,12 @@ Quick scripts and snippets I've shared:
 
 ## 🔨 Current Projects
 
-- **[notes](https://github.com/tommcd/notes)** - Personal knowledge management system with 200k+ references
-- **[wshims](https://github.com/tommcd/wshims)** - Git Bash to WSL bridge for Amazon Q CLI on Windows
+- **[notes](https://github.com/tommcd/notes)** - My Notes
 - **[mdtk](https://github.com/tommcd/mdtk)** - Markdown Toolkit
 
 ## 📫 Connect
 
 - GitHub: [@tommcd](https://github.com/tommcd)
-- Email: <tcmcdermott@gmail.com>
 
 ---
 
